@@ -1,0 +1,1001 @@
+Fecha,Producto,Categoría,Precio_Unitario,Costo_Unitario,Unidades_Vendidas,Ciudad
+2025-04-15,Cartucho filtrante,Repuestos,60,30,35,Mendoza
+2025-03-02,Kit de mangueras,Accesorios,25,10,45,Córdoba
+2025-04-25,Filtro de agua,Equipos,120,80,21,Tandil
+2025-06-17,Motor eléctrico,Equipos,300,200,15,Plaza Huincul
+2025-06-09,Purificador portátil,Equipos,150,100,18,Tandil
+2025-04-23,Repuesto bomba,Repuestos,40,20,44,Salta
+2025-04-15,Repuesto bomba,Repuestos,40,20,26,Tandil
+2025-05-28,Purificador portátil,Equipos,150,100,12,Mendoza
+2025-05-01,Grifo cromado,Accesorios,35,15,18,Tandil
+2025-01-19,Cartucho filtrante,Repuestos,60,30,43,Mendoza
+2025-04-16,Filtro de agua,Equipos,120,80,50,Córdoba
+2025-05-01,Filtro de agua,Equipos,120,80,16,Córdoba
+2025-06-02,Repuesto bomba,Repuestos,40,20,9,Mendoza
+2025-01-13,Manguera reforzada,Accesorios,50,25,11,Salta
+2025-01-26,Repuesto bomba,Repuestos,40,20,28,Tandil
+2025-02-22,Filtro de agua,Equipos,120,80,13,Plaza Huincul
+2025-03-25,Filtro de agua,Equipos,120,80,35,Salta
+2025-05-23,Repuesto bomba,Repuestos,40,20,50,Mendoza
+2025-03-08,Cartucho filtrante,Repuestos,60,30,27,Córdoba
+2025-05-16,Motor eléctrico,Equipos,300,200,16,Córdoba
+2025-01-15,Kit de mangueras,Accesorios,25,10,11,Mendoza
+2025-06-06,Kit de mangueras,Accesorios,25,10,35,Salta
+2025-01-18,Cartucho filtrante,Repuestos,60,30,48,Salta
+2025-01-08,Tanque de reserva,Equipos,200,120,5,Mendoza
+2025-03-12,Tanque de reserva,Equipos,200,120,24,Mendoza
+2025-04-19,Grifo cromado,Accesorios,35,15,5,Salta
+2025-06-23,Purificador portátil,Equipos,150,100,13,Mendoza
+2025-02-08,Tanque de reserva,Equipos,200,120,8,Tandil
+2025-04-29,Purificador portátil,Equipos,150,100,17,Salta
+2025-04-02,Válvula de presión,Repuestos,75,40,23,Tandil
+2025-04-20,Grifo cromado,Accesorios,35,15,47,Tandil
+2025-03-01,Kit de mangueras,Accesorios,25,10,41,Mendoza
+2025-06-24,Manguera reforzada,Accesorios,50,25,32,Plaza Huincul
+2025-03-31,Grifo cromado,Accesorios,35,15,24,Plaza Huincul
+2025-03-28,Grifo cromado,Accesorios,35,15,1,Mendoza
+2025-01-21,Kit de mangueras,Accesorios,25,10,12,Salta
+2025-02-24,Válvula de presión,Repuestos,75,40,29,Córdoba
+2025-02-04,Grifo cromado,Accesorios,35,15,44,Tandil
+2025-02-26,Cartucho filtrante,Repuestos,60,30,38,Salta
+2025-02-28,Filtro de agua,Equipos,120,80,28,Córdoba
+2025-05-25,Tanque de reserva,Equipos,200,120,1,Tandil
+2025-04-13,Purificador portátil,Equipos,150,100,16,Córdoba
+2025-05-22,Motor eléctrico,Equipos,300,200,45,Mendoza
+2025-01-25,Grifo cromado,Accesorios,35,15,36,Salta
+2025-04-02,Repuesto bomba,Repuestos,40,20,35,Tandil
+2025-03-08,Tanque de reserva,Equipos,200,120,19,Mendoza
+2025-01-29,Filtro de agua,Equipos,120,80,32,Tandil
+2025-04-17,Manguera reforzada,Accesorios,50,25,30,Mendoza
+2025-06-19,Kit de mangueras,Accesorios,25,10,22,Córdoba
+2025-02-14,Repuesto bomba,Repuestos,40,20,9,Tandil
+2025-06-27,Purificador portátil,Equipos,150,100,6,Tandil
+2025-05-22,Cartucho filtrante,Repuestos,60,30,5,Salta
+2025-05-16,Cartucho filtrante,Repuestos,60,30,28,Tandil
+2025-02-08,Kit de mangueras,Accesorios,25,10,47,Plaza Huincul
+2025-05-27,Válvula de presión,Repuestos,75,40,2,Plaza Huincul
+2025-06-03,Filtro de agua,Equipos,120,80,18,Tandil
+2025-06-26,Cartucho filtrante,Repuestos,60,30,18,Tandil
+2025-02-24,Cartucho filtrante,Repuestos,60,30,19,Mendoza
+2025-04-24,Kit de mangueras,Accesorios,25,10,44,Tandil
+2025-03-22,Válvula de presión,Repuestos,75,40,8,Tandil
+2025-04-21,Cartucho filtrante,Repuestos,60,30,17,Córdoba
+2025-06-08,Motor eléctrico,Equipos,300,200,24,Salta
+2025-03-28,Grifo cromado,Accesorios,35,15,10,Salta
+2025-05-28,Repuesto bomba,Repuestos,40,20,39,Plaza Huincul
+2025-05-26,Purificador portátil,Equipos,150,100,20,Salta
+2025-06-13,Tanque de reserva,Equipos,200,120,6,Mendoza
+2025-06-07,Válvula de presión,Repuestos,75,40,16,Tandil
+2025-01-12,Repuesto bomba,Repuestos,40,20,35,Mendoza
+2025-02-24,Tanque de reserva,Equipos,200,120,36,Salta
+2025-02-16,Válvula de presión,Repuestos,75,40,29,Mendoza
+2025-04-10,Cartucho filtrante,Repuestos,60,30,31,Salta
+2025-06-08,Purificador portátil,Equipos,150,100,29,Tandil
+2025-04-13,Repuesto bomba,Repuestos,40,20,10,Tandil
+2025-03-14,Filtro de agua,Equipos,120,80,19,Córdoba
+2025-03-12,Grifo cromado,Accesorios,35,15,50,Córdoba
+2025-06-22,Manguera reforzada,Accesorios,50,25,8,Tandil
+2025-02-03,Válvula de presión,Repuestos,75,40,8,Mendoza
+2025-05-11,Filtro de agua,Equipos,120,80,30,Salta
+2025-04-20,Motor eléctrico,Equipos,300,200,37,Salta
+2025-01-24,Kit de mangueras,Accesorios,25,10,25,Salta
+2025-06-15,Motor eléctrico,Equipos,300,200,21,Córdoba
+2025-05-13,Grifo cromado,Accesorios,35,15,35,Plaza Huincul
+2025-01-22,Motor eléctrico,Equipos,300,200,49,Mendoza
+2025-06-05,Válvula de presión,Repuestos,75,40,22,Tandil
+2025-02-09,Filtro de agua,Equipos,120,80,8,Plaza Huincul
+2025-02-28,Tanque de reserva,Equipos,200,120,30,Salta
+2025-04-15,Manguera reforzada,Accesorios,50,25,32,Mendoza
+2025-04-11,Grifo cromado,Accesorios,35,15,36,Mendoza
+2025-06-22,Tanque de reserva,Equipos,200,120,2,Salta
+2025-05-18,Válvula de presión,Repuestos,75,40,34,Mendoza
+2025-05-19,Válvula de presión,Repuestos,75,40,33,Córdoba
+2025-06-08,Manguera reforzada,Accesorios,50,25,7,Córdoba
+2025-03-02,Filtro de agua,Equipos,120,80,5,Plaza Huincul
+2025-02-06,Repuesto bomba,Repuestos,40,20,3,Salta
+2025-05-05,Manguera reforzada,Accesorios,50,25,21,Salta
+2025-06-25,Purificador portátil,Equipos,150,100,2,Mendoza
+2025-04-07,Manguera reforzada,Accesorios,50,25,31,Plaza Huincul
+2025-01-29,Cartucho filtrante,Repuestos,60,30,14,Córdoba
+2025-01-17,Motor eléctrico,Equipos,300,200,35,Salta
+2025-06-09,Kit de mangueras,Accesorios,25,10,35,Plaza Huincul
+2025-02-07,Tanque de reserva,Equipos,200,120,31,Córdoba
+2025-02-27,Manguera reforzada,Accesorios,50,25,6,Córdoba
+2025-05-15,Válvula de presión,Repuestos,75,40,7,Plaza Huincul
+2025-02-10,Repuesto bomba,Repuestos,40,20,19,Mendoza
+2025-03-25,Kit de mangueras,Accesorios,25,10,19,Córdoba
+2025-06-28,Filtro de agua,Equipos,120,80,39,Mendoza
+2025-05-12,Purificador portátil,Equipos,150,100,39,Plaza Huincul
+2025-06-17,Filtro de agua,Equipos,120,80,26,Plaza Huincul
+2025-06-23,Tanque de reserva,Equipos,200,120,23,Córdoba
+2025-04-03,Válvula de presión,Repuestos,75,40,43,Mendoza
+2025-05-10,Grifo cromado,Accesorios,35,15,44,Salta
+2025-01-28,Manguera reforzada,Accesorios,50,25,12,Mendoza
+2025-05-25,Filtro de agua,Equipos,120,80,36,Mendoza
+2025-04-01,Tanque de reserva,Equipos,200,120,27,Salta
+2025-03-29,Cartucho filtrante,Repuestos,60,30,9,Córdoba
+2025-02-24,Manguera reforzada,Accesorios,50,25,6,Salta
+2025-06-08,Manguera reforzada,Accesorios,50,25,37,Mendoza
+2025-06-16,Manguera reforzada,Accesorios,50,25,37,Plaza Huincul
+2025-05-05,Filtro de agua,Equipos,120,80,47,Tandil
+2025-02-02,Kit de mangueras,Accesorios,25,10,5,Tandil
+2025-03-01,Kit de mangueras,Accesorios,25,10,17,Salta
+2025-06-27,Grifo cromado,Accesorios,35,15,16,Salta
+2025-01-20,Manguera reforzada,Accesorios,50,25,33,Salta
+2025-04-13,Válvula de presión,Repuestos,75,40,34,Tandil
+2025-06-06,Tanque de reserva,Equipos,200,120,45,Tandil
+2025-02-08,Válvula de presión,Repuestos,75,40,30,Mendoza
+2025-02-22,Válvula de presión,Repuestos,75,40,29,Tandil
+2025-05-01,Filtro de agua,Equipos,120,80,16,Tandil
+2025-06-16,Cartucho filtrante,Repuestos,60,30,22,Tandil
+2025-06-18,Purificador portátil,Equipos,150,100,13,Mendoza
+2025-03-19,Manguera reforzada,Accesorios,50,25,36,Salta
+2025-03-08,Filtro de agua,Equipos,120,80,15,Plaza Huincul
+2025-04-08,Purificador portátil,Equipos,150,100,1,Plaza Huincul
+2025-02-22,Motor eléctrico,Equipos,300,200,45,Tandil
+2025-05-19,Grifo cromado,Accesorios,35,15,19,Mendoza
+2025-03-17,Válvula de presión,Repuestos,75,40,24,Mendoza
+2025-05-05,Purificador portátil,Equipos,150,100,33,Mendoza
+2025-05-04,Purificador portátil,Equipos,150,100,2,Mendoza
+2025-06-09,Kit de mangueras,Accesorios,25,10,28,Plaza Huincul
+2025-06-30,Grifo cromado,Accesorios,35,15,48,Córdoba
+2025-04-16,Purificador portátil,Equipos,150,100,33,Plaza Huincul
+2025-03-01,Kit de mangueras,Accesorios,25,10,27,Córdoba
+2025-02-23,Purificador portátil,Equipos,150,100,11,Tandil
+2025-05-31,Válvula de presión,Repuestos,75,40,2,Tandil
+2025-01-05,Tanque de reserva,Equipos,200,120,49,Salta
+2025-05-13,Repuesto bomba,Repuestos,40,20,3,Plaza Huincul
+2025-04-09,Kit de mangueras,Accesorios,25,10,30,Tandil
+2025-05-08,Tanque de reserva,Equipos,200,120,24,Plaza Huincul
+2025-06-02,Válvula de presión,Repuestos,75,40,34,Tandil
+2025-02-17,Filtro de agua,Equipos,120,80,6,Salta
+2025-05-27,Filtro de agua,Equipos,120,80,40,Salta
+2025-01-12,Válvula de presión,Repuestos,75,40,28,Tandil
+2025-01-16,Purificador portátil,Equipos,150,100,19,Tandil
+2025-04-30,Kit de mangueras,Accesorios,25,10,1,Plaza Huincul
+2025-06-27,Kit de mangueras,Accesorios,25,10,35,Salta
+2025-04-02,Tanque de reserva,Equipos,200,120,8,Córdoba
+2025-03-17,Manguera reforzada,Accesorios,50,25,48,Plaza Huincul
+2025-05-20,Purificador portátil,Equipos,150,100,50,Mendoza
+2025-04-15,Purificador portátil,Equipos,150,100,4,Plaza Huincul
+2025-01-11,Motor eléctrico,Equipos,300,200,24,Salta
+2025-05-31,Grifo cromado,Accesorios,35,15,43,Tandil
+2025-01-12,Válvula de presión,Repuestos,75,40,39,Salta
+2025-03-05,Tanque de reserva,Equipos,200,120,20,Salta
+2025-05-18,Grifo cromado,Accesorios,35,15,25,Plaza Huincul
+2025-05-26,Filtro de agua,Equipos,120,80,2,Plaza Huincul
+2025-01-05,Repuesto bomba,Repuestos,40,20,7,Mendoza
+2025-05-22,Motor eléctrico,Equipos,300,200,11,Córdoba
+2025-04-10,Motor eléctrico,Equipos,300,200,17,Salta
+2025-04-06,Grifo cromado,Accesorios,35,15,50,Tandil
+2025-04-06,Manguera reforzada,Accesorios,50,25,15,Plaza Huincul
+2025-01-24,Kit de mangueras,Accesorios,25,10,50,Salta
+2025-06-01,Tanque de reserva,Equipos,200,120,22,Córdoba
+2025-05-20,Kit de mangueras,Accesorios,25,10,20,Salta
+2025-01-22,Grifo cromado,Accesorios,35,15,14,Mendoza
+2025-06-14,Motor eléctrico,Equipos,300,200,19,Mendoza
+2025-01-29,Tanque de reserva,Equipos,200,120,29,Plaza Huincul
+2025-03-29,Grifo cromado,Accesorios,35,15,30,Plaza Huincul
+2025-06-24,Grifo cromado,Accesorios,35,15,28,Córdoba
+2025-01-04,Tanque de reserva,Equipos,200,120,15,Córdoba
+2025-04-03,Filtro de agua,Equipos,120,80,29,Córdoba
+2025-06-28,Grifo cromado,Accesorios,35,15,17,Salta
+2025-06-15,Filtro de agua,Equipos,120,80,8,Plaza Huincul
+2025-04-23,Cartucho filtrante,Repuestos,60,30,18,Mendoza
+2025-06-13,Cartucho filtrante,Repuestos,60,30,32,Salta
+2025-03-25,Repuesto bomba,Repuestos,40,20,40,Plaza Huincul
+2025-03-18,Filtro de agua,Equipos,120,80,28,Salta
+2025-01-27,Kit de mangueras,Accesorios,25,10,4,Salta
+2025-05-14,Filtro de agua,Equipos,120,80,11,Mendoza
+2025-03-02,Tanque de reserva,Equipos,200,120,30,Córdoba
+2025-06-12,Kit de mangueras,Accesorios,25,10,10,Salta
+2025-03-10,Kit de mangueras,Accesorios,25,10,28,Plaza Huincul
+2025-03-02,Filtro de agua,Equipos,120,80,19,Mendoza
+2025-02-20,Motor eléctrico,Equipos,300,200,40,Mendoza
+2025-02-03,Purificador portátil,Equipos,150,100,17,Mendoza
+2025-05-23,Tanque de reserva,Equipos,200,120,41,Tandil
+2025-01-21,Manguera reforzada,Accesorios,50,25,15,Salta
+2025-06-08,Purificador portátil,Equipos,150,100,41,Salta
+2025-03-01,Válvula de presión,Repuestos,75,40,4,Plaza Huincul
+2025-03-15,Cartucho filtrante,Repuestos,60,30,16,Tandil
+2025-01-13,Kit de mangueras,Accesorios,25,10,33,Tandil
+2025-05-23,Manguera reforzada,Accesorios,50,25,11,Salta
+2025-06-02,Manguera reforzada,Accesorios,50,25,10,Plaza Huincul
+2025-03-11,Manguera reforzada,Accesorios,50,25,39,Mendoza
+2025-06-20,Manguera reforzada,Accesorios,50,25,17,Salta
+2025-06-17,Grifo cromado,Accesorios,35,15,25,Salta
+2025-06-28,Grifo cromado,Accesorios,35,15,2,Plaza Huincul
+2025-05-21,Kit de mangueras,Accesorios,25,10,17,Plaza Huincul
+2025-01-05,Filtro de agua,Equipos,120,80,47,Mendoza
+2025-03-06,Motor eléctrico,Equipos,300,200,14,Plaza Huincul
+2025-05-31,Motor eléctrico,Equipos,300,200,6,Salta
+2025-05-14,Repuesto bomba,Repuestos,40,20,18,Córdoba
+2025-06-08,Válvula de presión,Repuestos,75,40,13,Salta
+2025-06-21,Motor eléctrico,Equipos,300,200,1,Plaza Huincul
+2025-04-03,Cartucho filtrante,Repuestos,60,30,29,Salta
+2025-04-05,Repuesto bomba,Repuestos,40,20,33,Plaza Huincul
+2025-02-20,Grifo cromado,Accesorios,35,15,33,Plaza Huincul
+2025-05-26,Kit de mangueras,Accesorios,25,10,18,Tandil
+2025-03-27,Filtro de agua,Equipos,120,80,9,Córdoba
+2025-04-12,Grifo cromado,Accesorios,35,15,34,Salta
+2025-01-28,Purificador portátil,Equipos,150,100,50,Mendoza
+2025-05-16,Kit de mangueras,Accesorios,25,10,37,Plaza Huincul
+2025-01-09,Válvula de presión,Repuestos,75,40,20,Mendoza
+2025-03-13,Filtro de agua,Equipos,120,80,39,Plaza Huincul
+2025-03-07,Filtro de agua,Equipos,120,80,20,Salta
+2025-03-05,Kit de mangueras,Accesorios,25,10,42,Mendoza
+2025-02-08,Kit de mangueras,Accesorios,25,10,8,Mendoza
+2025-02-05,Cartucho filtrante,Repuestos,60,30,8,Salta
+2025-05-10,Repuesto bomba,Repuestos,40,20,23,Córdoba
+2025-05-05,Purificador portátil,Equipos,150,100,49,Salta
+2025-05-08,Filtro de agua,Equipos,120,80,2,Mendoza
+2025-02-16,Cartucho filtrante,Repuestos,60,30,36,Plaza Huincul
+2025-05-24,Kit de mangueras,Accesorios,25,10,40,Salta
+2025-06-06,Purificador portátil,Equipos,150,100,16,Mendoza
+2025-01-14,Motor eléctrico,Equipos,300,200,5,Plaza Huincul
+2025-01-07,Cartucho filtrante,Repuestos,60,30,2,Mendoza
+2025-02-27,Cartucho filtrante,Repuestos,60,30,32,Plaza Huincul
+2025-03-15,Válvula de presión,Repuestos,75,40,26,Salta
+2025-06-11,Kit de mangueras,Accesorios,25,10,11,Córdoba
+2025-04-03,Cartucho filtrante,Repuestos,60,30,46,Mendoza
+2025-03-06,Repuesto bomba,Repuestos,40,20,46,Mendoza
+2025-04-29,Válvula de presión,Repuestos,75,40,1,Salta
+2025-01-28,Motor eléctrico,Equipos,300,200,44,Mendoza
+2025-02-14,Válvula de presión,Repuestos,75,40,1,Córdoba
+2025-04-09,Filtro de agua,Equipos,120,80,12,Mendoza
+2025-05-14,Grifo cromado,Accesorios,35,15,32,Tandil
+2025-05-15,Cartucho filtrante,Repuestos,60,30,7,Córdoba
+2025-02-15,Grifo cromado,Accesorios,35,15,29,Salta
+2025-02-25,Válvula de presión,Repuestos,75,40,6,Plaza Huincul
+2025-03-01,Cartucho filtrante,Repuestos,60,30,23,Tandil
+2025-01-12,Repuesto bomba,Repuestos,40,20,5,Mendoza
+2025-05-17,Tanque de reserva,Equipos,200,120,7,Plaza Huincul
+2025-05-29,Válvula de presión,Repuestos,75,40,7,Córdoba
+2025-05-11,Válvula de presión,Repuestos,75,40,1,Mendoza
+2025-06-15,Grifo cromado,Accesorios,35,15,30,Mendoza
+2025-02-12,Motor eléctrico,Equipos,300,200,4,Córdoba
+2025-02-05,Válvula de presión,Repuestos,75,40,27,Salta
+2025-01-09,Kit de mangueras,Accesorios,25,10,34,Mendoza
+2025-04-18,Válvula de presión,Repuestos,75,40,15,Salta
+2025-04-12,Kit de mangueras,Accesorios,25,10,33,Córdoba
+2025-01-04,Motor eléctrico,Equipos,300,200,17,Tandil
+2025-06-21,Purificador portátil,Equipos,150,100,50,Salta
+2025-02-02,Manguera reforzada,Accesorios,50,25,22,Plaza Huincul
+2025-06-29,Manguera reforzada,Accesorios,50,25,23,Plaza Huincul
+2025-03-10,Purificador portátil,Equipos,150,100,37,Salta
+2025-01-07,Kit de mangueras,Accesorios,25,10,18,Plaza Huincul
+2025-04-01,Motor eléctrico,Equipos,300,200,46,Córdoba
+2025-02-11,Tanque de reserva,Equipos,200,120,15,Plaza Huincul
+2025-06-26,Válvula de presión,Repuestos,75,40,10,Mendoza
+2025-03-16,Purificador portátil,Equipos,150,100,11,Tandil
+2025-01-03,Manguera reforzada,Accesorios,50,25,4,Mendoza
+2025-01-15,Manguera reforzada,Accesorios,50,25,48,Plaza Huincul
+2025-04-03,Purificador portátil,Equipos,150,100,37,Mendoza
+2025-03-01,Grifo cromado,Accesorios,35,15,18,Córdoba
+2025-05-11,Filtro de agua,Equipos,120,80,36,Tandil
+2025-03-13,Kit de mangueras,Accesorios,25,10,42,Mendoza
+2025-06-05,Válvula de presión,Repuestos,75,40,22,Mendoza
+2025-02-24,Repuesto bomba,Repuestos,40,20,7,Plaza Huincul
+2025-05-14,Motor eléctrico,Equipos,300,200,41,Plaza Huincul
+2025-01-30,Purificador portátil,Equipos,150,100,11,Córdoba
+2025-01-11,Manguera reforzada,Accesorios,50,25,48,Plaza Huincul
+2025-06-24,Manguera reforzada,Accesorios,50,25,32,Mendoza
+2025-05-06,Repuesto bomba,Repuestos,40,20,6,Salta
+2025-05-24,Kit de mangueras,Accesorios,25,10,42,Tandil
+2025-06-28,Filtro de agua,Equipos,120,80,27,Córdoba
+2025-01-03,Motor eléctrico,Equipos,300,200,34,Tandil
+2025-03-24,Purificador portátil,Equipos,150,100,7,Salta
+2025-02-23,Filtro de agua,Equipos,120,80,45,Salta
+2025-06-21,Motor eléctrico,Equipos,300,200,37,Córdoba
+2025-04-14,Kit de mangueras,Accesorios,25,10,5,Córdoba
+2025-04-29,Motor eléctrico,Equipos,300,200,17,Salta
+2025-02-20,Motor eléctrico,Equipos,300,200,19,Plaza Huincul
+2025-02-04,Cartucho filtrante,Repuestos,60,30,1,Salta
+2025-01-31,Válvula de presión,Repuestos,75,40,47,Tandil
+2025-01-21,Grifo cromado,Accesorios,35,15,37,Córdoba
+2025-03-28,Grifo cromado,Accesorios,35,15,22,Tandil
+2025-06-16,Tanque de reserva,Equipos,200,120,37,Tandil
+2025-06-14,Purificador portátil,Equipos,150,100,19,Tandil
+2025-06-04,Kit de mangueras,Accesorios,25,10,2,Córdoba
+2025-03-20,Grifo cromado,Accesorios,35,15,20,Mendoza
+2025-03-22,Grifo cromado,Accesorios,35,15,35,Tandil
+2025-03-23,Manguera reforzada,Accesorios,50,25,46,Tandil
+2025-03-13,Purificador portátil,Equipos,150,100,18,Tandil
+2025-05-09,Filtro de agua,Equipos,120,80,23,Tandil
+2025-03-11,Filtro de agua,Equipos,120,80,41,Plaza Huincul
+2025-06-14,Motor eléctrico,Equipos,300,200,41,Córdoba
+2025-05-10,Grifo cromado,Accesorios,35,15,41,Salta
+2025-04-07,Kit de mangueras,Accesorios,25,10,9,Tandil
+2025-06-03,Cartucho filtrante,Repuestos,60,30,9,Salta
+2025-02-10,Válvula de presión,Repuestos,75,40,6,Mendoza
+2025-04-15,Kit de mangueras,Accesorios,25,10,27,Córdoba
+2025-02-12,Manguera reforzada,Accesorios,50,25,17,Salta
+2025-05-24,Repuesto bomba,Repuestos,40,20,20,Salta
+2025-01-14,Tanque de reserva,Equipos,200,120,48,Plaza Huincul
+2025-04-18,Filtro de agua,Equipos,120,80,45,Mendoza
+2025-01-29,Tanque de reserva,Equipos,200,120,5,Mendoza
+2025-02-02,Manguera reforzada,Accesorios,50,25,39,Mendoza
+2025-02-22,Motor eléctrico,Equipos,300,200,19,Plaza Huincul
+2025-05-06,Purificador portátil,Equipos,150,100,42,Salta
+2025-02-05,Tanque de reserva,Equipos,200,120,14,Plaza Huincul
+2025-02-10,Tanque de reserva,Equipos,200,120,45,Mendoza
+2025-03-28,Válvula de presión,Repuestos,75,40,43,Mendoza
+2025-01-02,Manguera reforzada,Accesorios,50,25,3,Córdoba
+2025-06-07,Filtro de agua,Equipos,120,80,37,Plaza Huincul
+2025-02-20,Válvula de presión,Repuestos,75,40,31,Salta
+2025-04-28,Manguera reforzada,Accesorios,50,25,10,Mendoza
+2025-06-15,Tanque de reserva,Equipos,200,120,29,Plaza Huincul
+2025-04-11,Válvula de presión,Repuestos,75,40,30,Córdoba
+2025-02-20,Tanque de reserva,Equipos,200,120,40,Tandil
+2025-04-17,Manguera reforzada,Accesorios,50,25,33,Mendoza
+2025-01-03,Filtro de agua,Equipos,120,80,38,Mendoza
+2025-01-24,Purificador portátil,Equipos,150,100,2,Plaza Huincul
+2025-05-07,Válvula de presión,Repuestos,75,40,19,Salta
+2025-01-29,Purificador portátil,Equipos,150,100,24,Tandil
+2025-06-17,Kit de mangueras,Accesorios,25,10,20,Plaza Huincul
+2025-01-12,Cartucho filtrante,Repuestos,60,30,1,Tandil
+2025-03-31,Purificador portátil,Equipos,150,100,17,Salta
+2025-01-12,Válvula de presión,Repuestos,75,40,10,Córdoba
+2025-04-25,Tanque de reserva,Equipos,200,120,49,Salta
+2025-06-01,Grifo cromado,Accesorios,35,15,22,Mendoza
+2025-02-13,Kit de mangueras,Accesorios,25,10,45,Córdoba
+2025-05-16,Motor eléctrico,Equipos,300,200,47,Plaza Huincul
+2025-05-10,Válvula de presión,Repuestos,75,40,30,Mendoza
+2025-03-21,Filtro de agua,Equipos,120,80,21,Plaza Huincul
+2025-03-11,Cartucho filtrante,Repuestos,60,30,38,Plaza Huincul
+2025-06-03,Grifo cromado,Accesorios,35,15,40,Plaza Huincul
+2025-06-22,Purificador portátil,Equipos,150,100,4,Córdoba
+2025-03-28,Manguera reforzada,Accesorios,50,25,27,Mendoza
+2025-01-24,Motor eléctrico,Equipos,300,200,16,Córdoba
+2025-02-27,Filtro de agua,Equipos,120,80,12,Córdoba
+2025-02-10,Repuesto bomba,Repuestos,40,20,16,Mendoza
+2025-05-08,Grifo cromado,Accesorios,35,15,13,Mendoza
+2025-03-23,Tanque de reserva,Equipos,200,120,27,Plaza Huincul
+2025-02-07,Cartucho filtrante,Repuestos,60,30,34,Salta
+2025-01-25,Grifo cromado,Accesorios,35,15,23,Tandil
+2025-01-26,Válvula de presión,Repuestos,75,40,25,Mendoza
+2025-04-11,Motor eléctrico,Equipos,300,200,11,Córdoba
+2025-06-21,Purificador portátil,Equipos,150,100,12,Córdoba
+2025-03-03,Cartucho filtrante,Repuestos,60,30,29,Córdoba
+2025-03-17,Cartucho filtrante,Repuestos,60,30,28,Tandil
+2025-06-04,Grifo cromado,Accesorios,35,15,9,Tandil
+2025-01-10,Repuesto bomba,Repuestos,40,20,17,Mendoza
+2025-06-15,Tanque de reserva,Equipos,200,120,3,Salta
+2025-02-23,Tanque de reserva,Equipos,200,120,34,Tandil
+2025-04-03,Filtro de agua,Equipos,120,80,8,Mendoza
+2025-04-18,Repuesto bomba,Repuestos,40,20,36,Salta
+2025-02-27,Válvula de presión,Repuestos,75,40,21,Tandil
+2025-04-27,Grifo cromado,Accesorios,35,15,17,Mendoza
+2025-05-16,Filtro de agua,Equipos,120,80,16,Salta
+2025-06-13,Cartucho filtrante,Repuestos,60,30,6,Mendoza
+2025-03-02,Repuesto bomba,Repuestos,40,20,22,Mendoza
+2025-06-25,Grifo cromado,Accesorios,35,15,47,Salta
+2025-06-12,Repuesto bomba,Repuestos,40,20,11,Mendoza
+2025-03-23,Tanque de reserva,Equipos,200,120,40,Córdoba
+2025-02-26,Filtro de agua,Equipos,120,80,14,Salta
+2025-04-17,Cartucho filtrante,Repuestos,60,30,17,Salta
+2025-01-27,Manguera reforzada,Accesorios,50,25,11,Mendoza
+2025-04-07,Filtro de agua,Equipos,120,80,19,Tandil
+2025-03-03,Kit de mangueras,Accesorios,25,10,41,Córdoba
+2025-02-19,Kit de mangueras,Accesorios,25,10,15,Tandil
+2025-05-06,Motor eléctrico,Equipos,300,200,13,Mendoza
+2025-04-08,Kit de mangueras,Accesorios,25,10,48,Tandil
+2025-04-22,Válvula de presión,Repuestos,75,40,2,Córdoba
+2025-02-28,Filtro de agua,Equipos,120,80,47,Plaza Huincul
+2025-05-07,Manguera reforzada,Accesorios,50,25,35,Tandil
+2025-03-11,Manguera reforzada,Accesorios,50,25,16,Plaza Huincul
+2025-03-01,Filtro de agua,Equipos,120,80,14,Tandil
+2025-04-03,Manguera reforzada,Accesorios,50,25,10,Salta
+2025-06-02,Purificador portátil,Equipos,150,100,20,Salta
+2025-06-26,Motor eléctrico,Equipos,300,200,12,Salta
+2025-02-06,Grifo cromado,Accesorios,35,15,11,Salta
+2025-04-07,Manguera reforzada,Accesorios,50,25,23,Salta
+2025-04-23,Manguera reforzada,Accesorios,50,25,45,Salta
+2025-04-07,Tanque de reserva,Equipos,200,120,44,Mendoza
+2025-02-23,Kit de mangueras,Accesorios,25,10,14,Tandil
+2025-03-24,Manguera reforzada,Accesorios,50,25,11,Salta
+2025-06-12,Filtro de agua,Equipos,120,80,32,Plaza Huincul
+2025-06-08,Kit de mangueras,Accesorios,25,10,21,Tandil
+2025-06-11,Cartucho filtrante,Repuestos,60,30,5,Tandil
+2025-05-14,Kit de mangueras,Accesorios,25,10,10,Mendoza
+2025-04-27,Motor eléctrico,Equipos,300,200,26,Salta
+2025-01-08,Motor eléctrico,Equipos,300,200,32,Mendoza
+2025-03-25,Grifo cromado,Accesorios,35,15,40,Plaza Huincul
+2025-04-23,Purificador portátil,Equipos,150,100,27,Salta
+2025-02-22,Purificador portátil,Equipos,150,100,2,Mendoza
+2025-02-28,Manguera reforzada,Accesorios,50,25,6,Plaza Huincul
+2025-06-10,Cartucho filtrante,Repuestos,60,30,23,Salta
+2025-05-29,Motor eléctrico,Equipos,300,200,39,Mendoza
+2025-02-15,Grifo cromado,Accesorios,35,15,9,Plaza Huincul
+2025-01-12,Repuesto bomba,Repuestos,40,20,3,Mendoza
+2025-03-07,Tanque de reserva,Equipos,200,120,44,Mendoza
+2025-04-11,Repuesto bomba,Repuestos,40,20,42,Mendoza
+2025-01-14,Motor eléctrico,Equipos,300,200,7,Plaza Huincul
+2025-04-24,Purificador portátil,Equipos,150,100,23,Tandil
+2025-02-05,Purificador portátil,Equipos,150,100,13,Tandil
+2025-04-04,Grifo cromado,Accesorios,35,15,1,Plaza Huincul
+2025-05-04,Kit de mangueras,Accesorios,25,10,37,Córdoba
+2025-06-07,Purificador portátil,Equipos,150,100,8,Tandil
+2025-05-03,Purificador portátil,Equipos,150,100,43,Salta
+2025-01-18,Grifo cromado,Accesorios,35,15,36,Tandil
+2025-02-24,Motor eléctrico,Equipos,300,200,13,Mendoza
+2025-04-06,Repuesto bomba,Repuestos,40,20,2,Mendoza
+2025-04-20,Válvula de presión,Repuestos,75,40,6,Mendoza
+2025-01-21,Cartucho filtrante,Repuestos,60,30,11,Tandil
+2025-02-27,Cartucho filtrante,Repuestos,60,30,9,Salta
+2025-01-16,Filtro de agua,Equipos,120,80,27,Córdoba
+2025-02-04,Purificador portátil,Equipos,150,100,6,Tandil
+2025-01-30,Repuesto bomba,Repuestos,40,20,7,Tandil
+2025-02-14,Válvula de presión,Repuestos,75,40,29,Tandil
+2025-01-08,Filtro de agua,Equipos,120,80,44,Plaza Huincul
+2025-05-12,Cartucho filtrante,Repuestos,60,30,48,Córdoba
+2025-06-12,Kit de mangueras,Accesorios,25,10,15,Plaza Huincul
+2025-06-19,Manguera reforzada,Accesorios,50,25,4,Tandil
+2025-01-05,Tanque de reserva,Equipos,200,120,44,Córdoba
+2025-06-18,Grifo cromado,Accesorios,35,15,36,Plaza Huincul
+2025-04-02,Cartucho filtrante,Repuestos,60,30,40,Salta
+2025-02-19,Tanque de reserva,Equipos,200,120,36,Córdoba
+2025-02-19,Tanque de reserva,Equipos,200,120,42,Plaza Huincul
+2025-01-30,Cartucho filtrante,Repuestos,60,30,15,Córdoba
+2025-06-17,Grifo cromado,Accesorios,35,15,35,Salta
+2025-02-26,Manguera reforzada,Accesorios,50,25,8,Salta
+2025-01-06,Motor eléctrico,Equipos,300,200,42,Plaza Huincul
+2025-06-07,Tanque de reserva,Equipos,200,120,24,Tandil
+2025-03-28,Repuesto bomba,Repuestos,40,20,39,Salta
+2025-04-15,Cartucho filtrante,Repuestos,60,30,41,Salta
+2025-06-10,Cartucho filtrante,Repuestos,60,30,14,Córdoba
+2025-01-24,Manguera reforzada,Accesorios,50,25,42,Córdoba
+2025-04-09,Manguera reforzada,Accesorios,50,25,34,Salta
+2025-01-11,Filtro de agua,Equipos,120,80,25,Salta
+2025-04-12,Válvula de presión,Repuestos,75,40,29,Salta
+2025-04-26,Grifo cromado,Accesorios,35,15,9,Salta
+2025-03-14,Válvula de presión,Repuestos,75,40,49,Plaza Huincul
+2025-03-02,Purificador portátil,Equipos,150,100,39,Mendoza
+2025-01-03,Purificador portátil,Equipos,150,100,13,Salta
+2025-05-17,Filtro de agua,Equipos,120,80,16,Plaza Huincul
+2025-01-04,Tanque de reserva,Equipos,200,120,13,Plaza Huincul
+2025-02-15,Cartucho filtrante,Repuestos,60,30,6,Salta
+2025-06-11,Válvula de presión,Repuestos,75,40,26,Tandil
+2025-04-16,Filtro de agua,Equipos,120,80,27,Salta
+2025-05-08,Tanque de reserva,Equipos,200,120,7,Tandil
+2025-06-24,Kit de mangueras,Accesorios,25,10,28,Córdoba
+2025-05-26,Motor eléctrico,Equipos,300,200,7,Mendoza
+2025-02-09,Motor eléctrico,Equipos,300,200,9,Tandil
+2025-05-10,Manguera reforzada,Accesorios,50,25,28,Salta
+2025-01-27,Repuesto bomba,Repuestos,40,20,33,Salta
+2025-02-18,Válvula de presión,Repuestos,75,40,14,Plaza Huincul
+2025-02-22,Repuesto bomba,Repuestos,40,20,49,Tandil
+2025-03-05,Manguera reforzada,Accesorios,50,25,49,Plaza Huincul
+2025-01-19,Manguera reforzada,Accesorios,50,25,46,Córdoba
+2025-01-17,Tanque de reserva,Equipos,200,120,41,Córdoba
+2025-01-17,Válvula de presión,Repuestos,75,40,33,Tandil
+2025-02-24,Tanque de reserva,Equipos,200,120,31,Mendoza
+2025-02-04,Manguera reforzada,Accesorios,50,25,12,Mendoza
+2025-02-25,Kit de mangueras,Accesorios,25,10,1,Mendoza
+2025-03-15,Purificador portátil,Equipos,150,100,19,Tandil
+2025-04-03,Grifo cromado,Accesorios,35,15,50,Salta
+2025-02-17,Tanque de reserva,Equipos,200,120,2,Córdoba
+2025-01-13,Cartucho filtrante,Repuestos,60,30,41,Salta
+2025-06-30,Filtro de agua,Equipos,120,80,48,Mendoza
+2025-04-23,Manguera reforzada,Accesorios,50,25,42,Córdoba
+2025-02-20,Kit de mangueras,Accesorios,25,10,13,Salta
+2025-05-21,Manguera reforzada,Accesorios,50,25,17,Salta
+2025-03-29,Repuesto bomba,Repuestos,40,20,11,Tandil
+2025-01-23,Válvula de presión,Repuestos,75,40,7,Plaza Huincul
+2025-06-13,Kit de mangueras,Accesorios,25,10,1,Tandil
+2025-03-05,Cartucho filtrante,Repuestos,60,30,18,Tandil
+2025-01-08,Cartucho filtrante,Repuestos,60,30,49,Tandil
+2025-03-02,Kit de mangueras,Accesorios,25,10,39,Salta
+2025-04-02,Motor eléctrico,Equipos,300,200,26,Plaza Huincul
+2025-04-30,Válvula de presión,Repuestos,75,40,31,Plaza Huincul
+2025-05-19,Repuesto bomba,Repuestos,40,20,45,Tandil
+2025-06-03,Repuesto bomba,Repuestos,40,20,26,Mendoza
+2025-02-17,Grifo cromado,Accesorios,35,15,9,Tandil
+2025-03-22,Kit de mangueras,Accesorios,25,10,18,Tandil
+2025-06-14,Filtro de agua,Equipos,120,80,19,Mendoza
+2025-04-18,Purificador portátil,Equipos,150,100,45,Plaza Huincul
+2025-06-24,Repuesto bomba,Repuestos,40,20,7,Tandil
+2025-05-24,Kit de mangueras,Accesorios,25,10,28,Mendoza
+2025-05-16,Cartucho filtrante,Repuestos,60,30,18,Plaza Huincul
+2025-01-04,Repuesto bomba,Repuestos,40,20,20,Mendoza
+2025-03-30,Purificador portátil,Equipos,150,100,49,Tandil
+2025-06-19,Motor eléctrico,Equipos,300,200,27,Tandil
+2025-03-09,Filtro de agua,Equipos,120,80,23,Córdoba
+2025-04-14,Grifo cromado,Accesorios,35,15,41,Mendoza
+2025-02-22,Purificador portátil,Equipos,150,100,24,Mendoza
+2025-02-08,Motor eléctrico,Equipos,300,200,46,Salta
+2025-05-08,Tanque de reserva,Equipos,200,120,34,Salta
+2025-05-23,Tanque de reserva,Equipos,200,120,3,Mendoza
+2025-02-28,Manguera reforzada,Accesorios,50,25,37,Plaza Huincul
+2025-06-01,Repuesto bomba,Repuestos,40,20,31,Plaza Huincul
+2025-02-24,Purificador portátil,Equipos,150,100,43,Tandil
+2025-06-07,Cartucho filtrante,Repuestos,60,30,39,Plaza Huincul
+2025-03-08,Repuesto bomba,Repuestos,40,20,6,Plaza Huincul
+2025-02-24,Motor eléctrico,Equipos,300,200,6,Tandil
+2025-05-01,Grifo cromado,Accesorios,35,15,15,Tandil
+2025-06-16,Kit de mangueras,Accesorios,25,10,35,Tandil
+2025-03-18,Tanque de reserva,Equipos,200,120,46,Salta
+2025-03-20,Motor eléctrico,Equipos,300,200,45,Salta
+2025-01-01,Motor eléctrico,Equipos,300,200,9,Córdoba
+2025-03-02,Repuesto bomba,Repuestos,40,20,48,Córdoba
+2025-05-30,Kit de mangueras,Accesorios,25,10,19,Plaza Huincul
+2025-03-28,Grifo cromado,Accesorios,35,15,13,Salta
+2025-04-08,Manguera reforzada,Accesorios,50,25,27,Mendoza
+2025-01-01,Repuesto bomba,Repuestos,40,20,1,Mendoza
+2025-05-29,Manguera reforzada,Accesorios,50,25,45,Mendoza
+2025-01-24,Motor eléctrico,Equipos,300,200,50,Plaza Huincul
+2025-05-28,Kit de mangueras,Accesorios,25,10,44,Mendoza
+2025-04-14,Repuesto bomba,Repuestos,40,20,3,Tandil
+2025-01-06,Manguera reforzada,Accesorios,50,25,9,Tandil
+2025-03-01,Motor eléctrico,Equipos,300,200,8,Salta
+2025-04-16,Tanque de reserva,Equipos,200,120,46,Mendoza
+2025-04-28,Grifo cromado,Accesorios,35,15,48,Salta
+2025-06-07,Filtro de agua,Equipos,120,80,44,Mendoza
+2025-06-12,Purificador portátil,Equipos,150,100,21,Tandil
+2025-06-12,Repuesto bomba,Repuestos,40,20,20,Córdoba
+2025-04-03,Motor eléctrico,Equipos,300,200,30,Tandil
+2025-06-21,Válvula de presión,Repuestos,75,40,21,Tandil
+2025-04-03,Cartucho filtrante,Repuestos,60,30,28,Mendoza
+2025-04-02,Manguera reforzada,Accesorios,50,25,33,Tandil
+2025-03-02,Purificador portátil,Equipos,150,100,2,Córdoba
+2025-05-03,Cartucho filtrante,Repuestos,60,30,38,Plaza Huincul
+2025-06-21,Manguera reforzada,Accesorios,50,25,36,Plaza Huincul
+2025-01-24,Repuesto bomba,Repuestos,40,20,30,Salta
+2025-06-20,Cartucho filtrante,Repuestos,60,30,25,Tandil
+2025-06-30,Tanque de reserva,Equipos,200,120,21,Córdoba
+2025-02-18,Manguera reforzada,Accesorios,50,25,42,Córdoba
+2025-05-13,Motor eléctrico,Equipos,300,200,22,Córdoba
+2025-06-04,Repuesto bomba,Repuestos,40,20,23,Salta
+2025-02-01,Purificador portátil,Equipos,150,100,7,Plaza Huincul
+2025-02-25,Tanque de reserva,Equipos,200,120,8,Mendoza
+2025-02-26,Motor eléctrico,Equipos,300,200,48,Tandil
+2025-03-25,Repuesto bomba,Repuestos,40,20,44,Salta
+2025-05-29,Motor eléctrico,Equipos,300,200,41,Plaza Huincul
+2025-06-18,Grifo cromado,Accesorios,35,15,8,Tandil
+2025-01-15,Repuesto bomba,Repuestos,40,20,27,Salta
+2025-01-21,Kit de mangueras,Accesorios,25,10,46,Tandil
+2025-05-14,Purificador portátil,Equipos,150,100,7,Córdoba
+2025-03-26,Cartucho filtrante,Repuestos,60,30,45,Córdoba
+2025-06-08,Purificador portátil,Equipos,150,100,4,Mendoza
+2025-05-30,Válvula de presión,Repuestos,75,40,36,Mendoza
+2025-04-20,Válvula de presión,Repuestos,75,40,1,Salta
+2025-05-22,Motor eléctrico,Equipos,300,200,22,Córdoba
+2025-02-06,Purificador portátil,Equipos,150,100,45,Córdoba
+2025-01-06,Grifo cromado,Accesorios,35,15,20,Salta
+2025-04-30,Manguera reforzada,Accesorios,50,25,45,Mendoza
+2025-01-04,Repuesto bomba,Repuestos,40,20,25,Salta
+2025-04-04,Cartucho filtrante,Repuestos,60,30,30,Córdoba
+2025-05-12,Kit de mangueras,Accesorios,25,10,20,Mendoza
+2025-01-03,Motor eléctrico,Equipos,300,200,6,Mendoza
+2025-02-24,Tanque de reserva,Equipos,200,120,32,Tandil
+2025-05-17,Manguera reforzada,Accesorios,50,25,28,Mendoza
+2025-06-14,Repuesto bomba,Repuestos,40,20,35,Mendoza
+2025-06-08,Válvula de presión,Repuestos,75,40,47,Mendoza
+2025-01-19,Cartucho filtrante,Repuestos,60,30,21,Plaza Huincul
+2025-05-08,Kit de mangueras,Accesorios,25,10,8,Mendoza
+2025-03-23,Kit de mangueras,Accesorios,25,10,2,Plaza Huincul
+2025-04-26,Kit de mangueras,Accesorios,25,10,15,Salta
+2025-04-05,Válvula de presión,Repuestos,75,40,24,Salta
+2025-05-28,Cartucho filtrante,Repuestos,60,30,46,Tandil
+2025-06-01,Válvula de presión,Repuestos,75,40,30,Córdoba
+2025-02-25,Grifo cromado,Accesorios,35,15,44,Córdoba
+2025-03-06,Filtro de agua,Equipos,120,80,7,Plaza Huincul
+2025-05-19,Cartucho filtrante,Repuestos,60,30,23,Salta
+2025-05-18,Purificador portátil,Equipos,150,100,21,Mendoza
+2025-05-17,Grifo cromado,Accesorios,35,15,43,Salta
+2025-06-19,Purificador portátil,Equipos,150,100,15,Salta
+2025-05-20,Grifo cromado,Accesorios,35,15,50,Tandil
+2025-04-30,Tanque de reserva,Equipos,200,120,4,Plaza Huincul
+2025-02-04,Grifo cromado,Accesorios,35,15,26,Mendoza
+2025-04-15,Válvula de presión,Repuestos,75,40,41,Córdoba
+2025-06-04,Cartucho filtrante,Repuestos,60,30,9,Mendoza
+2025-05-01,Motor eléctrico,Equipos,300,200,6,Salta
+2025-04-04,Tanque de reserva,Equipos,200,120,8,Salta
+2025-03-05,Filtro de agua,Equipos,120,80,3,Plaza Huincul
+2025-02-01,Motor eléctrico,Equipos,300,200,41,Mendoza
+2025-05-25,Purificador portátil,Equipos,150,100,1,Plaza Huincul
+2025-01-18,Filtro de agua,Equipos,120,80,4,Plaza Huincul
+2025-04-06,Kit de mangueras,Accesorios,25,10,28,Mendoza
+2025-02-05,Tanque de reserva,Equipos,200,120,39,Tandil
+2025-05-11,Tanque de reserva,Equipos,200,120,20,Plaza Huincul
+2025-06-10,Motor eléctrico,Equipos,300,200,23,Salta
+2025-05-26,Cartucho filtrante,Repuestos,60,30,35,Plaza Huincul
+2025-03-03,Manguera reforzada,Accesorios,50,25,47,Plaza Huincul
+2025-04-26,Filtro de agua,Equipos,120,80,34,Salta
+2025-02-24,Grifo cromado,Accesorios,35,15,8,Tandil
+2025-06-22,Filtro de agua,Equipos,120,80,36,Tandil
+2025-04-21,Filtro de agua,Equipos,120,80,5,Tandil
+2025-01-31,Grifo cromado,Accesorios,35,15,35,Tandil
+2025-04-11,Kit de mangueras,Accesorios,25,10,14,Plaza Huincul
+2025-05-19,Repuesto bomba,Repuestos,40,20,47,Córdoba
+2025-03-29,Filtro de agua,Equipos,120,80,12,Tandil
+2025-02-22,Grifo cromado,Accesorios,35,15,5,Plaza Huincul
+2025-03-29,Purificador portátil,Equipos,150,100,44,Plaza Huincul
+2025-01-20,Filtro de agua,Equipos,120,80,50,Plaza Huincul
+2025-02-28,Motor eléctrico,Equipos,300,200,13,Mendoza
+2025-05-29,Filtro de agua,Equipos,120,80,50,Salta
+2025-04-23,Cartucho filtrante,Repuestos,60,30,20,Plaza Huincul
+2025-04-11,Tanque de reserva,Equipos,200,120,24,Tandil
+2025-04-21,Tanque de reserva,Equipos,200,120,19,Plaza Huincul
+2025-02-13,Kit de mangueras,Accesorios,25,10,10,Tandil
+2025-06-07,Cartucho filtrante,Repuestos,60,30,34,Mendoza
+2025-02-06,Kit de mangueras,Accesorios,25,10,33,Tandil
+2025-01-05,Repuesto bomba,Repuestos,40,20,48,Tandil
+2025-01-28,Repuesto bomba,Repuestos,40,20,23,Tandil
+2025-01-08,Tanque de reserva,Equipos,200,120,2,Córdoba
+2025-04-22,Repuesto bomba,Repuestos,40,20,2,Mendoza
+2025-01-12,Cartucho filtrante,Repuestos,60,30,39,Salta
+2025-01-21,Manguera reforzada,Accesorios,50,25,39,Mendoza
+2025-04-29,Motor eléctrico,Equipos,300,200,46,Plaza Huincul
+2025-06-30,Repuesto bomba,Repuestos,40,20,35,Mendoza
+2025-04-07,Tanque de reserva,Equipos,200,120,31,Tandil
+2025-04-09,Tanque de reserva,Equipos,200,120,34,Plaza Huincul
+2025-01-20,Filtro de agua,Equipos,120,80,30,Tandil
+2025-01-10,Cartucho filtrante,Repuestos,60,30,46,Plaza Huincul
+2025-01-27,Cartucho filtrante,Repuestos,60,30,16,Córdoba
+2025-05-27,Filtro de agua,Equipos,120,80,46,Salta
+2025-02-28,Filtro de agua,Equipos,120,80,42,Plaza Huincul
+2025-01-10,Válvula de presión,Repuestos,75,40,44,Mendoza
+2025-05-30,Válvula de presión,Repuestos,75,40,7,Córdoba
+2025-02-28,Válvula de presión,Repuestos,75,40,9,Mendoza
+2025-05-28,Repuesto bomba,Repuestos,40,20,17,Plaza Huincul
+2025-05-24,Purificador portátil,Equipos,150,100,41,Salta
+2025-06-07,Grifo cromado,Accesorios,35,15,1,Plaza Huincul
+2025-01-23,Grifo cromado,Accesorios,35,15,49,Salta
+2025-02-10,Purificador portátil,Equipos,150,100,49,Salta
+2025-05-17,Filtro de agua,Equipos,120,80,28,Tandil
+2025-06-06,Tanque de reserva,Equipos,200,120,40,Salta
+2025-01-04,Repuesto bomba,Repuestos,40,20,44,Córdoba
+2025-01-03,Motor eléctrico,Equipos,300,200,22,Mendoza
+2025-01-30,Motor eléctrico,Equipos,300,200,14,Tandil
+2025-06-05,Cartucho filtrante,Repuestos,60,30,31,Mendoza
+2025-01-09,Válvula de presión,Repuestos,75,40,18,Córdoba
+2025-01-25,Filtro de agua,Equipos,120,80,20,Córdoba
+2025-01-13,Filtro de agua,Equipos,120,80,40,Tandil
+2025-05-27,Repuesto bomba,Repuestos,40,20,17,Plaza Huincul
+2025-03-27,Filtro de agua,Equipos,120,80,46,Salta
+2025-06-06,Válvula de presión,Repuestos,75,40,22,Tandil
+2025-06-05,Tanque de reserva,Equipos,200,120,10,Plaza Huincul
+2025-01-14,Motor eléctrico,Equipos,300,200,41,Salta
+2025-02-24,Filtro de agua,Equipos,120,80,32,Mendoza
+2025-03-22,Kit de mangueras,Accesorios,25,10,37,Córdoba
+2025-03-09,Cartucho filtrante,Repuestos,60,30,22,Tandil
+2025-02-26,Grifo cromado,Accesorios,35,15,38,Mendoza
+2025-03-03,Válvula de presión,Repuestos,75,40,20,Córdoba
+2025-01-03,Motor eléctrico,Equipos,300,200,46,Tandil
+2025-03-05,Filtro de agua,Equipos,120,80,17,Córdoba
+2025-03-02,Grifo cromado,Accesorios,35,15,49,Tandil
+2025-01-26,Tanque de reserva,Equipos,200,120,39,Plaza Huincul
+2025-02-26,Manguera reforzada,Accesorios,50,25,42,Tandil
+2025-04-18,Cartucho filtrante,Repuestos,60,30,27,Mendoza
+2025-04-20,Kit de mangueras,Accesorios,25,10,35,Salta
+2025-05-29,Válvula de presión,Repuestos,75,40,19,Córdoba
+2025-04-11,Válvula de presión,Repuestos,75,40,23,Plaza Huincul
+2025-04-25,Manguera reforzada,Accesorios,50,25,32,Tandil
+2025-05-11,Filtro de agua,Equipos,120,80,2,Tandil
+2025-01-23,Repuesto bomba,Repuestos,40,20,28,Tandil
+2025-03-25,Repuesto bomba,Repuestos,40,20,28,Tandil
+2025-05-02,Repuesto bomba,Repuestos,40,20,35,Plaza Huincul
+2025-06-11,Kit de mangueras,Accesorios,25,10,48,Tandil
+2025-03-04,Filtro de agua,Equipos,120,80,24,Córdoba
+2025-03-13,Motor eléctrico,Equipos,300,200,45,Mendoza
+2025-03-31,Manguera reforzada,Accesorios,50,25,3,Salta
+2025-03-12,Cartucho filtrante,Repuestos,60,30,2,Mendoza
+2025-03-15,Purificador portátil,Equipos,150,100,42,Mendoza
+2025-02-10,Cartucho filtrante,Repuestos,60,30,29,Mendoza
+2025-06-13,Tanque de reserva,Equipos,200,120,44,Córdoba
+2025-01-11,Kit de mangueras,Accesorios,25,10,5,Salta
+2025-02-18,Manguera reforzada,Accesorios,50,25,43,Salta
+2025-03-05,Tanque de reserva,Equipos,200,120,7,Mendoza
+2025-02-16,Kit de mangueras,Accesorios,25,10,17,Salta
+2025-03-17,Filtro de agua,Equipos,120,80,25,Salta
+2025-01-20,Cartucho filtrante,Repuestos,60,30,22,Salta
+2025-05-24,Cartucho filtrante,Repuestos,60,30,43,Plaza Huincul
+2025-06-12,Válvula de presión,Repuestos,75,40,23,Tandil
+2025-06-09,Motor eléctrico,Equipos,300,200,6,Salta
+2025-03-18,Filtro de agua,Equipos,120,80,9,Mendoza
+2025-06-17,Válvula de presión,Repuestos,75,40,20,Salta
+2025-02-21,Kit de mangueras,Accesorios,25,10,19,Plaza Huincul
+2025-06-13,Filtro de agua,Equipos,120,80,20,Mendoza
+2025-05-12,Manguera reforzada,Accesorios,50,25,8,Plaza Huincul
+2025-01-14,Cartucho filtrante,Repuestos,60,30,39,Córdoba
+2025-06-25,Repuesto bomba,Repuestos,40,20,9,Córdoba
+2025-04-07,Tanque de reserva,Equipos,200,120,7,Plaza Huincul
+2025-06-15,Filtro de agua,Equipos,120,80,3,Tandil
+2025-06-28,Grifo cromado,Accesorios,35,15,9,Mendoza
+2025-01-03,Grifo cromado,Accesorios,35,15,41,Tandil
+2025-03-31,Repuesto bomba,Repuestos,40,20,25,Mendoza
+2025-05-13,Válvula de presión,Repuestos,75,40,50,Salta
+2025-06-19,Tanque de reserva,Equipos,200,120,11,Salta
+2025-04-12,Filtro de agua,Equipos,120,80,23,Mendoza
+2025-06-21,Kit de mangueras,Accesorios,25,10,47,Plaza Huincul
+2025-02-05,Grifo cromado,Accesorios,35,15,24,Plaza Huincul
+2025-02-11,Grifo cromado,Accesorios,35,15,13,Tandil
+2025-05-19,Válvula de presión,Repuestos,75,40,4,Mendoza
+2025-01-21,Manguera reforzada,Accesorios,50,25,2,Mendoza
+2025-03-25,Tanque de reserva,Equipos,200,120,22,Córdoba
+2025-05-14,Grifo cromado,Accesorios,35,15,4,Córdoba
+2025-04-28,Grifo cromado,Accesorios,35,15,32,Plaza Huincul
+2025-05-18,Repuesto bomba,Repuestos,40,20,14,Córdoba
+2025-02-10,Cartucho filtrante,Repuestos,60,30,34,Salta
+2025-04-27,Manguera reforzada,Accesorios,50,25,48,Salta
+2025-03-18,Grifo cromado,Accesorios,35,15,40,Tandil
+2025-06-17,Filtro de agua,Equipos,120,80,13,Salta
+2025-03-23,Motor eléctrico,Equipos,300,200,21,Córdoba
+2025-01-25,Grifo cromado,Accesorios,35,15,31,Salta
+2025-03-19,Tanque de reserva,Equipos,200,120,25,Salta
+2025-05-01,Válvula de presión,Repuestos,75,40,12,Tandil
+2025-01-14,Filtro de agua,Equipos,120,80,48,Tandil
+2025-03-03,Repuesto bomba,Repuestos,40,20,38,Córdoba
+2025-05-23,Grifo cromado,Accesorios,35,15,48,Córdoba
+2025-03-28,Válvula de presión,Repuestos,75,40,31,Córdoba
+2025-06-17,Manguera reforzada,Accesorios,50,25,18,Córdoba
+2025-06-14,Tanque de reserva,Equipos,200,120,32,Plaza Huincul
+2025-06-17,Cartucho filtrante,Repuestos,60,30,19,Salta
+2025-04-19,Purificador portátil,Equipos,150,100,35,Plaza Huincul
+2025-01-15,Repuesto bomba,Repuestos,40,20,34,Mendoza
+2025-02-08,Purificador portátil,Equipos,150,100,42,Córdoba
+2025-03-04,Cartucho filtrante,Repuestos,60,30,32,Córdoba
+2025-05-03,Cartucho filtrante,Repuestos,60,30,2,Córdoba
+2025-01-26,Motor eléctrico,Equipos,300,200,16,Córdoba
+2025-06-29,Cartucho filtrante,Repuestos,60,30,32,Salta
+2025-05-12,Kit de mangueras,Accesorios,25,10,11,Plaza Huincul
+2025-01-17,Cartucho filtrante,Repuestos,60,30,36,Tandil
+2025-04-30,Motor eléctrico,Equipos,300,200,32,Mendoza
+2025-06-19,Grifo cromado,Accesorios,35,15,48,Salta
+2025-06-27,Kit de mangueras,Accesorios,25,10,14,Tandil
+2025-01-22,Manguera reforzada,Accesorios,50,25,30,Plaza Huincul
+2025-04-11,Manguera reforzada,Accesorios,50,25,6,Mendoza
+2025-02-19,Motor eléctrico,Equipos,300,200,4,Mendoza
+2025-05-07,Manguera reforzada,Accesorios,50,25,7,Córdoba
+2025-04-29,Motor eléctrico,Equipos,300,200,31,Salta
+2025-01-26,Filtro de agua,Equipos,120,80,35,Mendoza
+2025-03-09,Válvula de presión,Repuestos,75,40,23,Salta
+2025-01-14,Válvula de presión,Repuestos,75,40,48,Tandil
+2025-04-02,Kit de mangueras,Accesorios,25,10,33,Salta
+2025-06-29,Manguera reforzada,Accesorios,50,25,2,Plaza Huincul
+2025-01-03,Cartucho filtrante,Repuestos,60,30,26,Tandil
+2025-05-08,Motor eléctrico,Equipos,300,200,33,Tandil
+2025-01-07,Motor eléctrico,Equipos,300,200,5,Mendoza
+2025-06-08,Válvula de presión,Repuestos,75,40,11,Córdoba
+2025-04-07,Manguera reforzada,Accesorios,50,25,31,Plaza Huincul
+2025-03-16,Válvula de presión,Repuestos,75,40,8,Tandil
+2025-04-26,Repuesto bomba,Repuestos,40,20,49,Salta
+2025-03-11,Cartucho filtrante,Repuestos,60,30,8,Salta
+2025-01-05,Motor eléctrico,Equipos,300,200,27,Córdoba
+2025-06-26,Manguera reforzada,Accesorios,50,25,15,Mendoza
+2025-04-03,Manguera reforzada,Accesorios,50,25,26,Salta
+2025-02-26,Manguera reforzada,Accesorios,50,25,26,Mendoza
+2025-01-31,Purificador portátil,Equipos,150,100,7,Córdoba
+2025-04-29,Manguera reforzada,Accesorios,50,25,39,Tandil
+2025-03-10,Motor eléctrico,Equipos,300,200,33,Córdoba
+2025-06-11,Tanque de reserva,Equipos,200,120,28,Mendoza
+2025-05-24,Filtro de agua,Equipos,120,80,30,Córdoba
+2025-06-27,Motor eléctrico,Equipos,300,200,19,Salta
+2025-01-07,Cartucho filtrante,Repuestos,60,30,10,Córdoba
+2025-01-06,Manguera reforzada,Accesorios,50,25,47,Mendoza
+2025-05-31,Cartucho filtrante,Repuestos,60,30,47,Tandil
+2025-01-11,Manguera reforzada,Accesorios,50,25,36,Salta
+2025-04-17,Cartucho filtrante,Repuestos,60,30,14,Salta
+2025-05-13,Válvula de presión,Repuestos,75,40,8,Plaza Huincul
+2025-01-08,Válvula de presión,Repuestos,75,40,30,Salta
+2025-05-13,Grifo cromado,Accesorios,35,15,31,Salta
+2025-01-05,Motor eléctrico,Equipos,300,200,44,Salta
+2025-05-25,Tanque de reserva,Equipos,200,120,18,Córdoba
+2025-04-10,Repuesto bomba,Repuestos,40,20,5,Mendoza
+2025-05-13,Repuesto bomba,Repuestos,40,20,2,Mendoza
+2025-01-11,Cartucho filtrante,Repuestos,60,30,29,Tandil
+2025-06-20,Filtro de agua,Equipos,120,80,3,Salta
+2025-06-20,Tanque de reserva,Equipos,200,120,31,Salta
+2025-01-25,Purificador portátil,Equipos,150,100,23,Salta
+2025-04-14,Válvula de presión,Repuestos,75,40,21,Salta
+2025-06-24,Repuesto bomba,Repuestos,40,20,40,Córdoba
+2025-03-17,Tanque de reserva,Equipos,200,120,35,Mendoza
+2025-05-30,Manguera reforzada,Accesorios,50,25,41,Salta
+2025-01-22,Motor eléctrico,Equipos,300,200,32,Tandil
+2025-05-15,Repuesto bomba,Repuestos,40,20,42,Mendoza
+2025-02-16,Manguera reforzada,Accesorios,50,25,15,Tandil
+2025-03-22,Repuesto bomba,Repuestos,40,20,48,Tandil
+2025-06-26,Motor eléctrico,Equipos,300,200,13,Córdoba
+2025-04-12,Manguera reforzada,Accesorios,50,25,44,Mendoza
+2025-05-11,Manguera reforzada,Accesorios,50,25,49,Córdoba
+2025-02-05,Kit de mangueras,Accesorios,25,10,15,Tandil
+2025-05-26,Tanque de reserva,Equipos,200,120,5,Mendoza
+2025-05-20,Kit de mangueras,Accesorios,25,10,2,Tandil
+2025-03-06,Kit de mangueras,Accesorios,25,10,50,Tandil
+2025-05-31,Grifo cromado,Accesorios,35,15,46,Salta
+2025-01-25,Kit de mangueras,Accesorios,25,10,45,Tandil
+2025-05-15,Motor eléctrico,Equipos,300,200,25,Tandil
+2025-03-06,Purificador portátil,Equipos,150,100,25,Plaza Huincul
+2025-04-24,Repuesto bomba,Repuestos,40,20,21,Mendoza
+2025-05-10,Válvula de presión,Repuestos,75,40,31,Córdoba
+2025-04-27,Purificador portátil,Equipos,150,100,43,Plaza Huincul
+2025-05-08,Grifo cromado,Accesorios,35,15,27,Salta
+2025-02-14,Repuesto bomba,Repuestos,40,20,1,Salta
+2025-04-13,Cartucho filtrante,Repuestos,60,30,47,Tandil
+2025-03-25,Manguera reforzada,Accesorios,50,25,5,Plaza Huincul
+2025-02-18,Motor eléctrico,Equipos,300,200,26,Salta
+2025-04-25,Manguera reforzada,Accesorios,50,25,5,Córdoba
+2025-06-19,Tanque de reserva,Equipos,200,120,41,Plaza Huincul
+2025-02-26,Manguera reforzada,Accesorios,50,25,30,Plaza Huincul
+2025-06-08,Cartucho filtrante,Repuestos,60,30,21,Tandil
+2025-01-25,Motor eléctrico,Equipos,300,200,36,Mendoza
+2025-02-15,Filtro de agua,Equipos,120,80,45,Córdoba
+2025-05-11,Kit de mangueras,Accesorios,25,10,24,Salta
+2025-05-10,Tanque de reserva,Equipos,200,120,6,Salta
+2025-05-18,Filtro de agua,Equipos,120,80,18,Córdoba
+2025-01-08,Tanque de reserva,Equipos,200,120,7,Plaza Huincul
+2025-06-26,Manguera reforzada,Accesorios,50,25,2,Plaza Huincul
+2025-01-12,Tanque de reserva,Equipos,200,120,27,Córdoba
+2025-04-13,Kit de mangueras,Accesorios,25,10,11,Tandil
+2025-06-05,Cartucho filtrante,Repuestos,60,30,8,Tandil
+2025-03-09,Manguera reforzada,Accesorios,50,25,45,Tandil
+2025-01-08,Kit de mangueras,Accesorios,25,10,19,Plaza Huincul
+2025-02-05,Manguera reforzada,Accesorios,50,25,23,Mendoza
+2025-06-05,Purificador portátil,Equipos,150,100,40,Córdoba
+2025-06-18,Motor eléctrico,Equipos,300,200,22,Plaza Huincul
+2025-06-28,Válvula de presión,Repuestos,75,40,43,Córdoba
+2025-03-21,Kit de mangueras,Accesorios,25,10,24,Tandil
+2025-04-08,Cartucho filtrante,Repuestos,60,30,20,Mendoza
+2025-06-28,Kit de mangueras,Accesorios,25,10,37,Tandil
+2025-04-15,Tanque de reserva,Equipos,200,120,47,Córdoba
+2025-03-05,Purificador portátil,Equipos,150,100,18,Plaza Huincul
+2025-05-15,Filtro de agua,Equipos,120,80,35,Mendoza
+2025-03-04,Kit de mangueras,Accesorios,25,10,15,Mendoza
+2025-04-21,Purificador portátil,Equipos,150,100,25,Tandil
+2025-05-21,Motor eléctrico,Equipos,300,200,37,Córdoba
+2025-01-09,Válvula de presión,Repuestos,75,40,33,Córdoba
+2025-01-26,Kit de mangueras,Accesorios,25,10,37,Tandil
+2025-03-22,Kit de mangueras,Accesorios,25,10,38,Córdoba
+2025-03-11,Purificador portátil,Equipos,150,100,24,Tandil
+2025-04-22,Purificador portátil,Equipos,150,100,38,Tandil
+2025-03-09,Purificador portátil,Equipos,150,100,2,Salta
+2025-06-17,Filtro de agua,Equipos,120,80,46,Mendoza
+2025-06-23,Grifo cromado,Accesorios,35,15,9,Mendoza
+2025-06-28,Motor eléctrico,Equipos,300,200,38,Tandil
+2025-06-24,Tanque de reserva,Equipos,200,120,9,Salta
+2025-03-22,Purificador portátil,Equipos,150,100,22,Córdoba
+2025-04-29,Grifo cromado,Accesorios,35,15,26,Salta
+2025-02-06,Kit de mangueras,Accesorios,25,10,41,Salta
+2025-01-05,Cartucho filtrante,Repuestos,60,30,30,Tandil
+2025-05-29,Motor eléctrico,Equipos,300,200,46,Córdoba
+2025-05-05,Tanque de reserva,Equipos,200,120,36,Tandil
+2025-02-28,Purificador portátil,Equipos,150,100,28,Plaza Huincul
+2025-03-02,Purificador portátil,Equipos,150,100,47,Córdoba
+2025-02-18,Repuesto bomba,Repuestos,40,20,37,Salta
+2025-06-09,Kit de mangueras,Accesorios,25,10,20,Córdoba
+2025-02-02,Tanque de reserva,Equipos,200,120,13,Plaza Huincul
+2025-01-14,Manguera reforzada,Accesorios,50,25,50,Tandil
+2025-06-17,Válvula de presión,Repuestos,75,40,35,Salta
+2025-04-29,Kit de mangueras,Accesorios,25,10,26,Tandil
+2025-02-21,Manguera reforzada,Accesorios,50,25,20,Plaza Huincul
+2025-01-20,Manguera reforzada,Accesorios,50,25,26,Plaza Huincul
+2025-03-09,Repuesto bomba,Repuestos,40,20,1,Plaza Huincul
+2025-01-01,Kit de mangueras,Accesorios,25,10,36,Plaza Huincul
+2025-05-11,Válvula de presión,Repuestos,75,40,7,Tandil
+2025-05-03,Purificador portátil,Equipos,150,100,50,Tandil
+2025-06-10,Purificador portátil,Equipos,150,100,20,Salta
+2025-05-04,Filtro de agua,Equipos,120,80,21,Salta
+2025-02-27,Filtro de agua,Equipos,120,80,27,Mendoza
+2025-03-19,Válvula de presión,Repuestos,75,40,11,Plaza Huincul
+2025-03-29,Motor eléctrico,Equipos,300,200,27,Tandil
+2025-04-29,Motor eléctrico,Equipos,300,200,42,Córdoba
+2025-06-09,Válvula de presión,Repuestos,75,40,42,Córdoba
+2025-06-22,Kit de mangueras,Accesorios,25,10,41,Salta
+2025-04-11,Cartucho filtrante,Repuestos,60,30,47,Plaza Huincul
+2025-06-28,Filtro de agua,Equipos,120,80,31,Salta
+2025-03-19,Válvula de presión,Repuestos,75,40,13,Plaza Huincul
+2025-04-11,Manguera reforzada,Accesorios,50,25,2,Mendoza
+2025-04-08,Motor eléctrico,Equipos,300,200,10,Tandil
+2025-06-18,Repuesto bomba,Repuestos,40,20,8,Plaza Huincul
+2025-05-18,Motor eléctrico,Equipos,300,200,7,Salta
+2025-03-07,Manguera reforzada,Accesorios,50,25,22,Mendoza
+2025-01-11,Motor eléctrico,Equipos,300,200,50,Mendoza
+2025-01-06,Manguera reforzada,Accesorios,50,25,41,Tandil
+2025-04-03,Motor eléctrico,Equipos,300,200,28,Mendoza
+2025-02-21,Repuesto bomba,Repuestos,40,20,35,Mendoza
+2025-06-25,Válvula de presión,Repuestos,75,40,5,Córdoba
+2025-02-11,Purificador portátil,Equipos,150,100,14,Tandil
+2025-02-16,Cartucho filtrante,Repuestos,60,30,7,Mendoza
+2025-05-08,Kit de mangueras,Accesorios,25,10,43,Tandil
+2025-04-10,Válvula de presión,Repuestos,75,40,37,Salta
+2025-06-05,Manguera reforzada,Accesorios,50,25,20,Plaza Huincul
+2025-02-04,Manguera reforzada,Accesorios,50,25,47,Córdoba
+2025-01-19,Repuesto bomba,Repuestos,40,20,29,Mendoza
+2025-02-17,Repuesto bomba,Repuestos,40,20,24,Córdoba
+2025-03-20,Grifo cromado,Accesorios,35,15,39,Plaza Huincul
+2025-01-02,Repuesto bomba,Repuestos,40,20,17,Salta
+2025-05-15,Cartucho filtrante,Repuestos,60,30,3,Mendoza
+2025-05-13,Cartucho filtrante,Repuestos,60,30,46,Mendoza
+2025-03-06,Kit de mangueras,Accesorios,25,10,38,Plaza Huincul
+2025-06-25,Motor eléctrico,Equipos,300,200,25,Mendoza
+2025-03-14,Manguera reforzada,Accesorios,50,25,31,Plaza Huincul
+2025-05-04,Tanque de reserva,Equipos,200,120,43,Mendoza
+2025-06-19,Motor eléctrico,Equipos,300,200,26,Salta
+2025-06-29,Cartucho filtrante,Repuestos,60,30,7,Córdoba
+2025-03-22,Válvula de presión,Repuestos,75,40,42,Córdoba
+2025-05-28,Purificador portátil,Equipos,150,100,25,Tandil
+2025-01-22,Válvula de presión,Repuestos,75,40,39,Tandil
+2025-05-07,Tanque de reserva,Equipos,200,120,16,Córdoba
+2025-03-14,Kit de mangueras,Accesorios,25,10,24,Salta
+2025-06-27,Manguera reforzada,Accesorios,50,25,4,Tandil
+2025-04-05,Manguera reforzada,Accesorios,50,25,12,Mendoza
+2025-02-10,Filtro de agua,Equipos,120,80,48,Salta
+2025-02-11,Cartucho filtrante,Repuestos,60,30,24,Salta
+2025-03-21,Cartucho filtrante,Repuestos,60,30,1,Salta
+2025-04-06,Grifo cromado,Accesorios,35,15,19,Plaza Huincul
+2025-03-12,Repuesto bomba,Repuestos,40,20,13,Tandil
+2025-04-08,Cartucho filtrante,Repuestos,60,30,41,Tandil
+2025-06-13,Motor eléctrico,Equipos,300,200,16,Mendoza
+2025-03-13,Filtro de agua,Equipos,120,80,3,Salta
+2025-04-08,Grifo cromado,Accesorios,35,15,11,Salta
+2025-01-12,Válvula de presión,Repuestos,75,40,12,Mendoza
+2025-04-04,Grifo cromado,Accesorios,35,15,26,Tandil
+2025-01-28,Filtro de agua,Equipos,120,80,31,Tandil
+2025-02-04,Kit de mangueras,Accesorios,25,10,36,Salta
+2025-02-23,Tanque de reserva,Equipos,200,120,39,Tandil
+2025-01-15,Filtro de agua,Equipos,120,80,28,Mendoza
+2025-03-11,Repuesto bomba,Repuestos,40,20,17,Plaza Huincul
+2025-03-27,Cartucho filtrante,Repuestos,60,30,28,Córdoba
+2025-03-22,Kit de mangueras,Accesorios,25,10,16,Tandil
+2025-03-19,Tanque de reserva,Equipos,200,120,9,Salta
+2025-05-14,Kit de mangueras,Accesorios,25,10,47,Mendoza
+2025-06-07,Motor eléctrico,Equipos,300,200,3,Plaza Huincul
+2025-05-06,Kit de mangueras,Accesorios,25,10,8,Salta
+2025-03-15,Válvula de presión,Repuestos,75,40,14,Salta
+2025-06-23,Filtro de agua,Equipos,120,80,27,Plaza Huincul
+2025-06-19,Válvula de presión,Repuestos,75,40,16,Salta
+2025-02-26,Repuesto bomba,Repuestos,40,20,12,Córdoba
+2025-01-20,Filtro de agua,Equipos,120,80,47,Córdoba
+2025-01-03,Filtro de agua,Equipos,120,80,5,Salta
+2025-04-03,Válvula de presión,Repuestos,75,40,46,Tandil
+2025-05-25,Cartucho filtrante,Repuestos,60,30,48,Plaza Huincul
+2025-01-19,Válvula de presión,Repuestos,75,40,4,Tandil
+2025-04-04,Motor eléctrico,Equipos,300,200,10,Plaza Huincul
+2025-03-03,Kit de mangueras,Accesorios,25,10,49,Córdoba
+2025-02-02,Filtro de agua,Equipos,120,80,37,Salta
+2025-06-07,Manguera reforzada,Accesorios,50,25,36,Salta
+2025-01-17,Grifo cromado,Accesorios,35,15,40,Plaza Huincul
+2025-05-08,Kit de mangueras,Accesorios,25,10,4,Córdoba
+2025-02-21,Repuesto bomba,Repuestos,40,20,10,Plaza Huincul
+2025-02-19,Motor eléctrico,Equipos,300,200,40,Tandil
+2025-01-26,Motor eléctrico,Equipos,300,200,33,Tandil
+2025-06-08,Filtro de agua,Equipos,120,80,2,Plaza Huincul
+2025-03-18,Motor eléctrico,Equipos,300,200,39,Salta
+2025-04-19,Válvula de presión,Repuestos,75,40,7,Salta
+2025-03-13,Kit de mangueras,Accesorios,25,10,17,Córdoba
+2025-05-20,Cartucho filtrante,Repuestos,60,30,9,Mendoza
+2025-02-10,Válvula de presión,Repuestos,75,40,44,Plaza Huincul
+2025-06-21,Kit de mangueras,Accesorios,25,10,11,Mendoza
+2025-03-21,Válvula de presión,Repuestos,75,40,11,Salta
+2025-02-19,Grifo cromado,Accesorios,35,15,37,Tandil
+2025-02-25,Grifo cromado,Accesorios,35,15,47,Tandil
+2025-06-14,Grifo cromado,Accesorios,35,15,26,Mendoza
+2025-05-02,Válvula de presión,Repuestos,75,40,24,Córdoba
+2025-04-14,Filtro de agua,Equipos,120,80,45,Córdoba
+2025-01-15,Grifo cromado,Accesorios,35,15,16,Córdoba
+2025-01-16,Repuesto bomba,Repuestos,40,20,29,Mendoza
+2025-05-16,Repuesto bomba,Repuestos,40,20,28,Córdoba
+2025-01-16,Motor eléctrico,Equipos,300,200,28,Tandil
+2025-02-18,Tanque de reserva,Equipos,200,120,16,Córdoba
+2025-02-28,Grifo cromado,Accesorios,35,15,35,Tandil
+2025-05-07,Cartucho filtrante,Repuestos,60,30,23,Salta
+2025-04-24,Válvula de presión,Repuestos,75,40,7,Salta
+2025-02-24,Cartucho filtrante,Repuestos,60,30,24,Córdoba
+2025-02-06,Repuesto bomba,Repuestos,40,20,7,Salta
+2025-05-25,Válvula de presión,Repuestos,75,40,36,Tandil
+2025-04-01,Grifo cromado,Accesorios,35,15,9,Tandil
+2025-05-21,Motor eléctrico,Equipos,300,200,18,Salta
+2025-06-18,Purificador portátil,Equipos,150,100,13,Mendoza
+2025-05-11,Kit de mangueras,Accesorios,25,10,34,Tandil
+2025-01-27,Kit de mangueras,Accesorios,25,10,36,Córdoba
+2025-02-23,Tanque de reserva,Equipos,200,120,21,Salta
+2025-01-09,Repuesto bomba,Repuestos,40,20,50,Tandil
+2025-05-13,Purificador portátil,Equipos,150,100,10,Mendoza
+2025-05-31,Válvula de presión,Repuestos,75,40,4,Córdoba
+2025-01-30,Kit de mangueras,Accesorios,25,10,37,Córdoba
+2025-03-13,Filtro de agua,Equipos,120,80,6,Córdoba
+2025-05-24,Grifo cromado,Accesorios,35,15,26,Plaza Huincul
+2025-05-14,Purificador portátil,Equipos,150,100,2,Salta
+2025-02-22,Filtro de agua,Equipos,120,80,14,Plaza Huincul
+2025-01-02,Motor eléctrico,Equipos,300,200,37,Salta

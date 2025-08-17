@@ -1,0 +1,8 @@
+2025-08-17 12:36:31,293 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-17 12:42:58,283 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-17 12:42:59,067 - INFO - Procesando archivo: raw/ventas.csv
+2025-08-17 12:43:00,354 - INFO - Archivo subido a my-analytics-bucket-v1/processed/ventas-clean.csv
+2025-08-17 12:54:42,349 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-17 12:54:43,171 - INFO - Procesando archivo: raw/ventas.csv
+2025-08-17 12:54:44,358 - INFO - Archivo subido a my-analytics-bucket-v1/processed/ventas-clean.csv
+2025-08-17 12:54:44,580 - INFO - Tags agregados a my-analytics-bucket-v1/processed/ventas-clean.csv
